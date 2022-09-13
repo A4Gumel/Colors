@@ -1,5 +1,5 @@
 # Colors
-A## An App to Create RGB Colors
+### An App to Create RGB Colors
 
 This is an app that uses validation. It shows how the RGB channels of Red, Green, 
 and Blue are added to the RGB color space to create a color. Each of the RGB 
